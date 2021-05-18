@@ -17,5 +17,23 @@
         android:id="@+id/a2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Button" />
+        android:text="mediaPlayer" />
+
+    <Button
+        android:id="@+id/a3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="VEDIOPLAYER" />
+
+    <Button
+        android:id="@+id/a4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="fragments" />
+
+    <Button
+        android:id="@+id/a5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Dialog" />
 </LinearLayout>
