@@ -30,5 +30,9 @@ class MainActivity : AppCompatActivity() {
             var intent2=Intent(this, Dialog::class.java)
             startActivity(intent2)
         }
+        a6.setOnClickListener {
+            var intent2=Intent(this, Notification::class.java)
+            startActivity(intent2)
+        }
     }
 }

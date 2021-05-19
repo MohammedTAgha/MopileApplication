@@ -11,7 +11,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.MopileApplication">
-        <activity android:name=".Dialog"></activity>
+        <activity android:name=".Notification"></activity>
+        <activity android:name=".Dialog" />
         <activity android:name=".VedioPlayer" />
         <activity android:name=".Fragmarnts" />
         <activity android:name=".MultiMedia" />

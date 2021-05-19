@@ -36,4 +36,10 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Dialog" />
+
+    <Button
+        android:id="@+id/a6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="notification" />
 </LinearLayout>
